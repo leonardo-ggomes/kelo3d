@@ -1,0 +1,8 @@
+# Kelo3D — robots.txt
+# https://www.kelo3d.com.br
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.kelo3d.com.br/sitemap.xml
