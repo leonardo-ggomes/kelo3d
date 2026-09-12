@@ -1251,6 +1251,7 @@ button {
 }
 
 .about-img--main {
+  object-fit: contain;
   transition: transform var(--transition);
 }
 
